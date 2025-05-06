@@ -1,0 +1,11 @@
+D:\PRODIGY_Tasks\PRODIGY_Task01.Models\bin\Debug\net8.0\PRODIGY_Task01.Models.deps.json
+D:\PRODIGY_Tasks\PRODIGY_Task01.Models\bin\Debug\net8.0\PRODIGY_Task01.Models.dll
+D:\PRODIGY_Tasks\PRODIGY_Task01.Models\bin\Debug\net8.0\PRODIGY_Task01.Models.pdb
+D:\PRODIGY_Tasks\PRODIGY_Task01.Models\obj\Debug\net8.0\PRODIGY_Task01.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRODIGY_Tasks\PRODIGY_Task01.Models\obj\Debug\net8.0\PRODIGY_Task01.Models.AssemblyInfoInputs.cache
+D:\PRODIGY_Tasks\PRODIGY_Task01.Models\obj\Debug\net8.0\PRODIGY_Task01.Models.AssemblyInfo.cs
+D:\PRODIGY_Tasks\PRODIGY_Task01.Models\obj\Debug\net8.0\PRODIGY_Task01.Models.csproj.CoreCompileInputs.cache
+D:\PRODIGY_Tasks\PRODIGY_Task01.Models\obj\Debug\net8.0\PRODIGY_Task01.Models.dll
+D:\PRODIGY_Tasks\PRODIGY_Task01.Models\obj\Debug\net8.0\refint\PRODIGY_Task01.Models.dll
+D:\PRODIGY_Tasks\PRODIGY_Task01.Models\obj\Debug\net8.0\PRODIGY_Task01.Models.pdb
+D:\PRODIGY_Tasks\PRODIGY_Task01.Models\obj\Debug\net8.0\ref\PRODIGY_Task01.Models.dll

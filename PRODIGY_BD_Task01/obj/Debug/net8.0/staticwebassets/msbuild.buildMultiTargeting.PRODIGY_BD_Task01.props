@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PRODIGY_BD_Task01.props" />
+</Project>

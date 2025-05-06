@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prodigy_Task01.Service/1.0.0": {
+        "dependencies": {
+          "PRODIGY_Task01.Models": "1.0.0"
+        },
+        "runtime": {
+          "Prodigy_Task01.Service.dll": {}
+        }
+      },
+      "PRODIGY_Task01.Models/1.0.0": {
+        "runtime": {
+          "PRODIGY_Task01.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prodigy_Task01.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PRODIGY_Task01.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

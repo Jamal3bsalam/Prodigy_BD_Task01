@@ -1,0 +1,6 @@
+@PRODIGY_BD_Task01_HostAddress = http://localhost:5005
+
+GET {{PRODIGY_BD_Task01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

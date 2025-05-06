@@ -1,0 +1,15 @@
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\bin\Debug\net8.0\Prodigy_Task01.Service.deps.json
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\bin\Debug\net8.0\Prodigy_Task01.Service.dll
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\bin\Debug\net8.0\Prodigy_Task01.Service.pdb
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\bin\Debug\net8.0\PRODIGY_Task01.Models.dll
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\bin\Debug\net8.0\PRODIGY_Task01.Models.pdb
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\obj\Debug\net8.0\Prodigy_Task01.Service.csproj.AssemblyReference.cache
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\obj\Debug\net8.0\Prodigy_Task01.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\obj\Debug\net8.0\Prodigy_Task01.Service.AssemblyInfoInputs.cache
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\obj\Debug\net8.0\Prodigy_Task01.Service.AssemblyInfo.cs
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\obj\Debug\net8.0\Prodigy_Task01.Service.csproj.CoreCompileInputs.cache
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\obj\Debug\net8.0\Prodigy_.B2D52FA8.Up2Date
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\obj\Debug\net8.0\Prodigy_Task01.Service.dll
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\obj\Debug\net8.0\refint\Prodigy_Task01.Service.dll
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\obj\Debug\net8.0\Prodigy_Task01.Service.pdb
+D:\PRODIGY_Tasks\Prodigy_Task01.Service\obj\Debug\net8.0\ref\Prodigy_Task01.Service.dll
